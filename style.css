@@ -1,0 +1,28 @@
+img {
+    border-radius: 50%;
+}
+footer {
+    text-align: center;
+}
+body {
+    font-size: 18px; 
+    line-height: 1.1;
+}
+header {
+    font-size: 18px; 
+    line-height: 1.2;
+}
+a{
+    color: black;
+}
+.black-text {
+    color: black;
+}
+
+.grey-text {
+    color: beige;
+}
+.copyright h1,h2{
+    text-align: left;
+    font-size: 14px;
+}
