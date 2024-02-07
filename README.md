@@ -6,8 +6,6 @@ This repository contains the source code for my personal resume, a simple and st
 
 ## Preview
 
-![Resume Preview](https://65c38ade95121431aea5d2f6--elegant-starburst-9629a4.netlify.app/)
-
 You can view the live demo [here](https://65c38ade95121431aea5d2f6--elegant-starburst-9629a4.netlify.app/).
 
 ## Features
